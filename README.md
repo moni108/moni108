@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  <div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>, I'm Manisha Yadu</h1>
+<h1 align="center">Hi 👋, I'm Manisha Yadu</h1>
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moni108&label=Profile%20views&color=0e75b6&style=flat" alt="moni108" /> </p>
