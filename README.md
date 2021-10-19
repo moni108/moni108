@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manisha Yadu</h1>
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moni108&label=Profile%20views&color=0e75b6&style=flat" alt="moni108" /> </p>
